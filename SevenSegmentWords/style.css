@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+}
+#sketch-holder canvas {
+  width: 100% !important;
+  height: auto !important;
+}
+
+.full-width {
+  width: 100%;
+  box-sizing: border-box;
+  height: 40px;
+  font-size: 25pt;
+  color: white;
+  background-color: #292929;
+  border: 2;
+  border-color: rgb(59, 59, 59);
+}
+
+h2, a, p {
+  text-align: center;
+  color: rgb(107, 107, 107); 
+}
+
