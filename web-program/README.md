@@ -1,0 +1,1 @@
+Basic setup from [How to make a web page that looks like a desktop app by Rui Figueiredo](https://www.blinkingcaret.com/2016/08/03/make-web-page-looks-like-desktop-app/)
