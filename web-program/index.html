@@ -7,15 +7,37 @@
   <meta name="description" content="Home screen" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
 </head>
 
 <body>
   <div id="menu">
-    <div class="menu-item disable-select">File</div>
-    <div class="menu-item disable-select">Edit</div>
-    <div class="menu-item disable-select">View</div>
-    <div class="menu-item disable-select">Help</div>
+      <button class="menu-item disable-select" id="file" onclick="openDropdown('file-dropdown');">File</button>
+      <div class="dropdown-content" id="file-dropdown">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+      </div>
+      <button class="menu-item disable-select" onclick="openDropdown('edit-dropdown')">Edit</button>
+      <div class="dropdown-content" id="edit-dropdown">
+          <a href="#">Link 1</a>
+          <a href="#">Link 2</a>
+          <a href="#">Link 3</a>
+      </div>
+      <button class="menu-item disable-select" onclick="openDropdown('view-dropdown')">View</button>
+      <div class="dropdown-content" id="view-dropdown">
+        <a href="#">Link 1</a>
+        <a href="#">Link 2</a>
+        <a href="#">Link 3</a>
+      </div>
+      <button class="menu-item disable-select" onclick="openDropdown('help-dropdown')">Help</button>
+      <div class="dropdown-content" id="help-dropdown">
+        <a href="#">Link 1</a>
+        <a href="#">Link 2</a>
+        <a href="#">Link 3</a>
+    </div>
   </div>
+
   <div id="mainArea">
     <div id="sidebar">
       <ul>

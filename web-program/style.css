@@ -19,26 +19,54 @@ body {
 }
 
 /* Menu */
-div#menu {
+#menu {
     height: 25px;
     flex: none;
     background-color: var(--main-bg-color);
     border-top: 2px solid var(--main-border-color);
     border-bottom: 1px solid var(--main-border-color);
+    position: relative;
 }
 
-div#menu .menu-item {
+.menu-item {
     display: inline-block;
     margin: 5px 5px;
     padding-left: 2px;
     padding-right: 2px;
     cursor: pointer;
     color: #000000;
+    border-top: none;
+    border-left: none;
+    border-right: 1px solid var(--main-bg-color);
+    border-bottom: 1px solid var(--main-bg-color);
+    background: none;
 }
 
-div#menu .menu-item:hover {
+#menu .menu-item:hover, .menu-item:focus {
     border-right: 1px solid  black;
     border-bottom: 1px solid black;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    margin-left: -35px;
+    background-color: var(--main-bg-color);
+    min-width: 160px;
+    z-index: 1;
+    border: 1px solid black;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #F7F7FF;
 }
 
 /* Main Area */
@@ -114,4 +142,8 @@ div#taskbar .taskbar-item {
     -moz-user-select: none;    
     -ms-user-select: none;      
     user-select: none;
+}
+
+.show {
+    display: inline-block;
 }
