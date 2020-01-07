@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>User Validation</title>
+</head>
+<body>
+  <div class="header">
+    <h3>GrabIt</h3>
+  </div>
+
+  <div class="grabit-form">
+    <form>
+      <div class="form-group">
+        <label for="input-subreddit">Subreddit or User</label>
+        <input type="text" class="form-control" id="input-subreddit" placeholder="r/pics" required>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-6">
+          <label for="input-sort">Sort</label>
+          <select name="sort" id="input-sort" class="form-control">
+            <option value="hot" selected>Hot</option>
+            <option value="new">New</option>
+            <option value="controversial">Controversial</option>
+            <option value="top">Top</option>
+          </select>
+        </div>
+        <div class="form-group col-md-6">
+          <label for="input-time-filter">Time Filter</label>
+          <select name="time_filter" id="input-time-filter" class="form-control">
+            <option value="all" selected>All</option>
+            <option value="day">Day</option>
+            <option value="hour">Hour</option>
+            <option value="month">Month</option>
+            <option value="week">Week</option>
+            <option value="year">Year</option>
+          </select>        
+        </div>
+      </div>
+
+      <div class="form-row">
+        <div class="form-group col-md-4">
+          <label for="input-posts">Number of Posts</label>
+          <input type="number" class="form-control" id="input-posts" placeholder="20">
+        </div>
+        <div class="form-group col-md-4">
+          <label for="input-wait">Wait Time</label>
+          <input type="number" class="form-control" id="input-wait" placeholder="10">       
+        </div>
+        <div class="form-group col-md-4">
+          <label for="input-cycles">Cycles</label>
+          <input type="number" class="form-control" id="input-cycles" placeholder="0">       
+        </div>
+      </div>
+      <div class="form-group">
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" id="gridCheck" name="allow_nsfw">
+          <label class="form-check-label" for="gridCheck">Allow NSFW</label>
+        </div>
+      </div>
+      <button type="submit" class="btn btn-primary">Grab</button>
+    </form>
+    
+  </div>
+</body>
+</html>
