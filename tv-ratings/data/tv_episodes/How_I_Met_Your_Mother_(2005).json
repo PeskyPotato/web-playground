@@ -1,0 +1,1254 @@
+{
+    "title": "How I Met Your Mother",
+    "year": 2005,
+    "ratings": [
+        {
+            "season": 1,
+            "episode": 1,
+            "tconst": "tt0606110",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "tconst": "tt0606111",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "tconst": "tt0606117",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "tconst": "tt0606112",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "tconst": "tt0606109",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "tconst": "tt0606116",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "tconst": "tt0606108",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "tconst": "tt0606113",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "tconst": "tt0606104",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "tconst": "tt0606115",
+            "averageRating": "9.2"
+        },
+        {
+            "season": 1,
+            "episode": 11,
+            "tconst": "tt0606114",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 1,
+            "episode": 12,
+            "tconst": "tt0606118",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 1,
+            "episode": 13,
+            "tconst": "tt0606106",
+            "averageRating": "8.7"
+        },
+        {
+            "season": 1,
+            "episode": 14,
+            "tconst": "tt0606119",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 1,
+            "episode": 15,
+            "tconst": "tt0606107",
+            "averageRating": "9.1"
+        },
+        {
+            "season": 1,
+            "episode": 16,
+            "tconst": "tt0606105",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 1,
+            "episode": 17,
+            "tconst": "tt0756504",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 1,
+            "episode": 18,
+            "tconst": "tt0606103",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 1,
+            "episode": 19,
+            "tconst": "tt0788623",
+            "averageRating": "8.8"
+        },
+        {
+            "season": 1,
+            "episode": 20,
+            "tconst": "tt0760776",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 1,
+            "episode": 21,
+            "tconst": "tt0801608",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 1,
+            "episode": 22,
+            "tconst": "tt0774239",
+            "averageRating": "8.9"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "tconst": "tt0863640",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "tconst": "tt0869673",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "tconst": "tt0873024",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "tconst": "tt0858000",
+            "averageRating": "8.9"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "tconst": "tt0866188",
+            "averageRating": "8.8"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "tconst": "tt0865115",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "tconst": "tt0875360",
+            "averageRating": "9.0"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "tconst": "tt0885871",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "tconst": "tt0885872",
+            "averageRating": "9.5"
+        },
+        {
+            "season": 2,
+            "episode": 10,
+            "tconst": "tt0892578",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 2,
+            "episode": 11,
+            "tconst": "tt0904645",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 2,
+            "episode": 12,
+            "tconst": "tt0897111",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 2,
+            "episode": 13,
+            "tconst": "tt0924673",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 2,
+            "episode": 14,
+            "tconst": "tt0933496",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 2,
+            "episode": 15,
+            "tconst": "tt0946316",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 2,
+            "episode": 16,
+            "tconst": "tt0943657",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 2,
+            "episode": 17,
+            "tconst": "tt0969965",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 2,
+            "episode": 18,
+            "tconst": "tt0978049",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 2,
+            "episode": 19,
+            "tconst": "tt0966112",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 2,
+            "episode": 20,
+            "tconst": "tt0994245",
+            "averageRating": "8.9"
+        },
+        {
+            "season": 2,
+            "episode": 21,
+            "tconst": "tt0982196",
+            "averageRating": "8.7"
+        },
+        {
+            "season": 2,
+            "episode": 22,
+            "tconst": "tt1017766",
+            "averageRating": "8.8"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "tconst": "tt1084790",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "tconst": "tt1115217",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "tconst": "tt1097293",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "tconst": "tt1094834",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "tconst": "tt1121411",
+            "averageRating": "9.0"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "tconst": "tt1117436",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 3,
+            "episode": 7,
+            "tconst": "tt1120228",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 3,
+            "episode": 8,
+            "tconst": "tt1140904",
+            "averageRating": "9.1"
+        },
+        {
+            "season": 3,
+            "episode": 9,
+            "tconst": "tt1142665",
+            "averageRating": "9.0"
+        },
+        {
+            "season": 3,
+            "episode": 10,
+            "tconst": "tt1155839",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 3,
+            "episode": 11,
+            "tconst": "tt1154186",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 3,
+            "episode": 12,
+            "tconst": "tt1203040",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 3,
+            "episode": 13,
+            "tconst": "tt1204516",
+            "averageRating": "8.8"
+        },
+        {
+            "season": 3,
+            "episode": 14,
+            "tconst": "tt1206872",
+            "averageRating": "8.7"
+        },
+        {
+            "season": 3,
+            "episode": 15,
+            "tconst": "tt1206866",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 3,
+            "episode": 16,
+            "tconst": "tt1206867",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 3,
+            "episode": 17,
+            "tconst": "tt1206868",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 3,
+            "episode": 18,
+            "tconst": "tt1206869",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 3,
+            "episode": 19,
+            "tconst": "tt1206870",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 3,
+            "episode": 20,
+            "tconst": "tt1206871",
+            "averageRating": "8.7"
+        },
+        {
+            "season": 4,
+            "episode": 1,
+            "tconst": "tt1256606",
+            "averageRating": "8.7"
+        },
+        {
+            "season": 4,
+            "episode": 2,
+            "tconst": "tt1256181",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 4,
+            "episode": 3,
+            "tconst": "tt1256185",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 4,
+            "episode": 4,
+            "tconst": "tt1256186",
+            "averageRating": "8.8"
+        },
+        {
+            "season": 4,
+            "episode": 5,
+            "tconst": "tt1256187",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 4,
+            "episode": 6,
+            "tconst": "tt1256188",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 4,
+            "episode": 7,
+            "tconst": "tt1256189",
+            "averageRating": "7.9"
+        },
+        {
+            "season": 4,
+            "episode": 8,
+            "tconst": "tt1256190",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 4,
+            "episode": 9,
+            "tconst": "tt1256191",
+            "averageRating": "9.2"
+        },
+        {
+            "season": 4,
+            "episode": 10,
+            "tconst": "tt1256171",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 4,
+            "episode": 11,
+            "tconst": "tt1256172",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 4,
+            "episode": 12,
+            "tconst": "tt1256173",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 4,
+            "episode": 13,
+            "tconst": "tt1256174",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 4,
+            "episode": 14,
+            "tconst": "tt1256175",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 4,
+            "episode": 15,
+            "tconst": "tt1256176",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 4,
+            "episode": 16,
+            "tconst": "tt1256177",
+            "averageRating": "7.9"
+        },
+        {
+            "season": 4,
+            "episode": 17,
+            "tconst": "tt1256178",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 4,
+            "episode": 18,
+            "tconst": "tt1256179",
+            "averageRating": "7.7"
+        },
+        {
+            "season": 4,
+            "episode": 19,
+            "tconst": "tt1256180",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 4,
+            "episode": 20,
+            "tconst": "tt1256182",
+            "averageRating": "7.7"
+        },
+        {
+            "season": 4,
+            "episode": 21,
+            "tconst": "tt1256184",
+            "averageRating": "8.7"
+        },
+        {
+            "season": 4,
+            "episode": 22,
+            "tconst": "tt1256183",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 4,
+            "episode": 23,
+            "tconst": "tt1410619",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 4,
+            "episode": 24,
+            "tconst": "tt1425523",
+            "averageRating": "8.8"
+        },
+        {
+            "season": 5,
+            "episode": 1,
+            "tconst": "tt1491272",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 5,
+            "episode": 2,
+            "tconst": "tt1510422",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 5,
+            "episode": 3,
+            "tconst": "tt1520584",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 5,
+            "episode": 4,
+            "tconst": "tt1523038",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 5,
+            "episode": 5,
+            "tconst": "tt1523745",
+            "averageRating": "7.9"
+        },
+        {
+            "season": 5,
+            "episode": 6,
+            "tconst": "tt1531287",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 5,
+            "episode": 7,
+            "tconst": "tt1536724",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 5,
+            "episode": 8,
+            "tconst": "tt1541289",
+            "averageRating": "9.4"
+        },
+        {
+            "season": 5,
+            "episode": 9,
+            "tconst": "tt1541288",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 5,
+            "episode": 10,
+            "tconst": "tt1553522",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 5,
+            "episode": 11,
+            "tconst": "tt1559709",
+            "averageRating": "7.9"
+        },
+        {
+            "season": 5,
+            "episode": 12,
+            "tconst": "tt1570154",
+            "averageRating": "9.1"
+        },
+        {
+            "season": 5,
+            "episode": 13,
+            "tconst": "tt1570155",
+            "averageRating": "8.7"
+        },
+        {
+            "season": 5,
+            "episode": 14,
+            "tconst": "tt1576524",
+            "averageRating": "8.9"
+        },
+        {
+            "season": 5,
+            "episode": 15,
+            "tconst": "tt1589779",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 5,
+            "episode": 16,
+            "tconst": "tt1595724",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 5,
+            "episode": 17,
+            "tconst": "tt1609315",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 5,
+            "episode": 18,
+            "tconst": "tt1610780",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 5,
+            "episode": 19,
+            "tconst": "tt1624286",
+            "averageRating": "7.7"
+        },
+        {
+            "season": 5,
+            "episode": 20,
+            "tconst": "tt1631001",
+            "averageRating": "7.9"
+        },
+        {
+            "season": 5,
+            "episode": 21,
+            "tconst": "tt1632014",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 5,
+            "episode": 22,
+            "tconst": "tt1632015",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 5,
+            "episode": 23,
+            "tconst": "tt1640994",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 5,
+            "episode": 24,
+            "tconst": "tt1648494",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 6,
+            "episode": 1,
+            "tconst": "tt1701804",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 6,
+            "episode": 2,
+            "tconst": "tt1713733",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 6,
+            "episode": 3,
+            "tconst": "tt1723669",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 6,
+            "episode": 4,
+            "tconst": "tt1733369",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 6,
+            "episode": 5,
+            "tconst": "tt1737327",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 6,
+            "episode": 6,
+            "tconst": "tt1737328",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 6,
+            "episode": 7,
+            "tconst": "tt1746026",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 6,
+            "episode": 8,
+            "tconst": "tt1757176",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 6,
+            "episode": 9,
+            "tconst": "tt1763611",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 6,
+            "episode": 10,
+            "tconst": "tt1777828",
+            "averageRating": "9.1"
+        },
+        {
+            "season": 6,
+            "episode": 11,
+            "tconst": "tt1779155",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 6,
+            "episode": 12,
+            "tconst": "tt1778997",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 6,
+            "episode": 13,
+            "tconst": "tt1795967",
+            "averageRating": "8.9"
+        },
+        {
+            "season": 6,
+            "episode": 14,
+            "tconst": "tt1795956",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 6,
+            "episode": 15,
+            "tconst": "tt1795957",
+            "averageRating": "8.8"
+        },
+        {
+            "season": 6,
+            "episode": 16,
+            "tconst": "tt1795958",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 6,
+            "episode": 17,
+            "tconst": "tt1795959",
+            "averageRating": "7.7"
+        },
+        {
+            "season": 6,
+            "episode": 18,
+            "tconst": "tt1795960",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 6,
+            "episode": 19,
+            "tconst": "tt1795961",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 6,
+            "episode": 20,
+            "tconst": "tt1795962",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 6,
+            "episode": 21,
+            "tconst": "tt1795963",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 6,
+            "episode": 22,
+            "tconst": "tt1795964",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 6,
+            "episode": 23,
+            "tconst": "tt1795965",
+            "averageRating": "7.9"
+        },
+        {
+            "season": 6,
+            "episode": 24,
+            "tconst": "tt1795966",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 7,
+            "episode": 1,
+            "tconst": "tt1982341",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 7,
+            "episode": 2,
+            "tconst": "tt2039807",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 7,
+            "episode": 3,
+            "tconst": "tt2049132",
+            "averageRating": "8.9"
+        },
+        {
+            "season": 7,
+            "episode": 4,
+            "tconst": "tt2049980",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 7,
+            "episode": 5,
+            "tconst": "tt2071800",
+            "averageRating": "7.6"
+        },
+        {
+            "season": 7,
+            "episode": 6,
+            "tconst": "tt2072524",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 7,
+            "episode": 7,
+            "tconst": "tt2072525",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 7,
+            "episode": 8,
+            "tconst": "tt2072526",
+            "averageRating": "7.5"
+        },
+        {
+            "season": 7,
+            "episode": 9,
+            "tconst": "tt2094413",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 7,
+            "episode": 10,
+            "tconst": "tt2102769",
+            "averageRating": "9.0"
+        },
+        {
+            "season": 7,
+            "episode": 11,
+            "tconst": "tt2108075",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 7,
+            "episode": 12,
+            "tconst": "tt2121966",
+            "averageRating": "8.8"
+        },
+        {
+            "season": 7,
+            "episode": 13,
+            "tconst": "tt2157459",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 7,
+            "episode": 14,
+            "tconst": "tt2157457",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 7,
+            "episode": 15,
+            "tconst": "tt2216757",
+            "averageRating": "7.3"
+        },
+        {
+            "season": 7,
+            "episode": 16,
+            "tconst": "tt2216759",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 7,
+            "episode": 17,
+            "tconst": "tt2212411",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 7,
+            "episode": 18,
+            "tconst": "tt2247489",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 7,
+            "episode": 19,
+            "tconst": "tt2265943",
+            "averageRating": "8.7"
+        },
+        {
+            "season": 7,
+            "episode": 20,
+            "tconst": "tt2336905",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 7,
+            "episode": 21,
+            "tconst": "tt2346207",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 7,
+            "episode": 22,
+            "tconst": "tt2376741",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 7,
+            "episode": 23,
+            "tconst": "tt2376743",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 7,
+            "episode": 24,
+            "tconst": "tt2376745",
+            "averageRating": "8.9"
+        },
+        {
+            "season": 8,
+            "episode": 1,
+            "tconst": "tt2252518",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 8,
+            "episode": 2,
+            "tconst": "tt2414774",
+            "averageRating": "7.5"
+        },
+        {
+            "season": 8,
+            "episode": 3,
+            "tconst": "tt2428798",
+            "averageRating": "7.4"
+        },
+        {
+            "season": 8,
+            "episode": 4,
+            "tconst": "tt2428796",
+            "averageRating": "7.6"
+        },
+        {
+            "season": 8,
+            "episode": 5,
+            "tconst": "tt2460610",
+            "averageRating": "7.5"
+        },
+        {
+            "season": 8,
+            "episode": 6,
+            "tconst": "tt2460618",
+            "averageRating": "7.6"
+        },
+        {
+            "season": 8,
+            "episode": 7,
+            "tconst": "tt2460620",
+            "averageRating": "7.5"
+        },
+        {
+            "season": 8,
+            "episode": 8,
+            "tconst": "tt2445770",
+            "averageRating": "7.6"
+        },
+        {
+            "season": 8,
+            "episode": 9,
+            "tconst": "tt2466704",
+            "averageRating": "7.5"
+        },
+        {
+            "season": 8,
+            "episode": 10,
+            "tconst": "tt2547538",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 8,
+            "episode": 11,
+            "tconst": "tt2556002",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 8,
+            "episode": 12,
+            "tconst": "tt2556008",
+            "averageRating": "9.4"
+        },
+        {
+            "season": 8,
+            "episode": 13,
+            "tconst": "tt2569148",
+            "averageRating": "7.9"
+        },
+        {
+            "season": 8,
+            "episode": 14,
+            "tconst": "tt2630114",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 8,
+            "episode": 15,
+            "tconst": "tt2654452",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 8,
+            "episode": 16,
+            "tconst": "tt2676388",
+            "averageRating": "7.6"
+        },
+        {
+            "season": 8,
+            "episode": 17,
+            "tconst": "tt2712100",
+            "averageRating": "7.9"
+        },
+        {
+            "season": 8,
+            "episode": 18,
+            "tconst": "tt2668726",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 8,
+            "episode": 19,
+            "tconst": "tt2777232",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 8,
+            "episode": 20,
+            "tconst": "tt2733014",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 8,
+            "episode": 21,
+            "tconst": "tt2815916",
+            "averageRating": "7.5"
+        },
+        {
+            "season": 8,
+            "episode": 22,
+            "tconst": "tt2847436",
+            "averageRating": "8.7"
+        },
+        {
+            "season": 8,
+            "episode": 23,
+            "tconst": "tt2795770",
+            "averageRating": "7.6"
+        },
+        {
+            "season": 8,
+            "episode": 24,
+            "tconst": "tt2861788",
+            "averageRating": "8.8"
+        },
+        {
+            "season": 9,
+            "episode": 1,
+            "tconst": "tt2802532",
+            "averageRating": "7.9"
+        },
+        {
+            "season": 9,
+            "episode": 2,
+            "tconst": "tt3040972",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 9,
+            "episode": 3,
+            "tconst": "tt3040980",
+            "averageRating": "7.6"
+        },
+        {
+            "season": 9,
+            "episode": 4,
+            "tconst": "tt3113690",
+            "averageRating": "7.3"
+        },
+        {
+            "season": 9,
+            "episode": 5,
+            "tconst": "tt3212666",
+            "averageRating": "7.3"
+        },
+        {
+            "season": 9,
+            "episode": 6,
+            "tconst": "tt3268352",
+            "averageRating": "7.6"
+        },
+        {
+            "season": 9,
+            "episode": 7,
+            "tconst": "tt3268354",
+            "averageRating": "7.4"
+        },
+        {
+            "season": 9,
+            "episode": 8,
+            "tconst": "tt3268356",
+            "averageRating": "7.4"
+        },
+        {
+            "season": 9,
+            "episode": 9,
+            "tconst": "tt3247720",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 9,
+            "episode": 10,
+            "tconst": "tt3317356",
+            "averageRating": "6.8"
+        },
+        {
+            "season": 9,
+            "episode": 11,
+            "tconst": "tt3331436",
+            "averageRating": "5.8"
+        },
+        {
+            "season": 9,
+            "episode": 12,
+            "tconst": "tt3353092",
+            "averageRating": "7.8"
+        },
+        {
+            "season": 9,
+            "episode": 13,
+            "tconst": "tt3382270",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 9,
+            "episode": 14,
+            "tconst": "tt3359400",
+            "averageRating": "5.9"
+        },
+        {
+            "season": 9,
+            "episode": 15,
+            "tconst": "tt3390680",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 9,
+            "episode": 16,
+            "tconst": "tt3390684",
+            "averageRating": "9.5"
+        },
+        {
+            "season": 9,
+            "episode": 17,
+            "tconst": "tt3415286",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 9,
+            "episode": 18,
+            "tconst": "tt3415288",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 9,
+            "episode": 19,
+            "tconst": "tt3415292",
+            "averageRating": "7.7"
+        },
+        {
+            "season": 9,
+            "episode": 20,
+            "tconst": "tt3415296",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 9,
+            "episode": 21,
+            "tconst": "tt3415298",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 9,
+            "episode": 22,
+            "tconst": "tt3415300",
+            "averageRating": "8.9"
+        },
+        {
+            "season": 9,
+            "episode": 23,
+            "tconst": "tt3415302",
+            "averageRating": "6.8"
+        },
+        {
+            "season": 9,
+            "episode": 24,
+            "tconst": "tt3415304",
+            "averageRating": "5.6"
+        }
+    ]
+}

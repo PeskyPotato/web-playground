@@ -1,0 +1,156 @@
+{
+    "title": "The Newsroom",
+    "year": 2012,
+    "ratings": [
+        {
+            "season": 1,
+            "episode": 1,
+            "tconst": "tt2289479",
+            "averageRating": "9.0"
+        },
+        {
+            "season": 1,
+            "episode": 2,
+            "tconst": "tt2299121",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 1,
+            "episode": 3,
+            "tconst": "tt2299123",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 1,
+            "episode": 4,
+            "tconst": "tt2270947",
+            "averageRating": "9.0"
+        },
+        {
+            "season": 1,
+            "episode": 5,
+            "tconst": "tt2299125",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 1,
+            "episode": 6,
+            "tconst": "tt2299127",
+            "averageRating": "8.6"
+        },
+        {
+            "season": 1,
+            "episode": 7,
+            "tconst": "tt2280877",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 1,
+            "episode": 8,
+            "tconst": "tt2362655",
+            "averageRating": "8.0"
+        },
+        {
+            "season": 1,
+            "episode": 9,
+            "tconst": "tt2362657",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 1,
+            "episode": 10,
+            "tconst": "tt2391725",
+            "averageRating": "8.9"
+        },
+        {
+            "season": 2,
+            "episode": 1,
+            "tconst": "tt2288440",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 2,
+            "episode": 2,
+            "tconst": "tt2554692",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 2,
+            "episode": 3,
+            "tconst": "tt2987146",
+            "averageRating": "8.2"
+        },
+        {
+            "season": 2,
+            "episode": 4,
+            "tconst": "tt2989418",
+            "averageRating": "8.4"
+        },
+        {
+            "season": 2,
+            "episode": 5,
+            "tconst": "tt2978644",
+            "averageRating": "8.3"
+        },
+        {
+            "season": 2,
+            "episode": 6,
+            "tconst": "tt3067864",
+            "averageRating": "8.1"
+        },
+        {
+            "season": 2,
+            "episode": 7,
+            "tconst": "tt3067860",
+            "averageRating": "9.1"
+        },
+        {
+            "season": 2,
+            "episode": 8,
+            "tconst": "tt3067868",
+            "averageRating": "8.5"
+        },
+        {
+            "season": 2,
+            "episode": 9,
+            "tconst": "tt3067866",
+            "averageRating": "9.1"
+        },
+        {
+            "season": 3,
+            "episode": 1,
+            "tconst": "tt3251486",
+            "averageRating": "8.8"
+        },
+        {
+            "season": 3,
+            "episode": 2,
+            "tconst": "tt3680804",
+            "averageRating": "9.1"
+        },
+        {
+            "season": 3,
+            "episode": 3,
+            "tconst": "tt3680810",
+            "averageRating": "8.7"
+        },
+        {
+            "season": 3,
+            "episode": 4,
+            "tconst": "tt3680812",
+            "averageRating": "9.0"
+        },
+        {
+            "season": 3,
+            "episode": 5,
+            "tconst": "tt3680818",
+            "averageRating": "9.4"
+        },
+        {
+            "season": 3,
+            "episode": 6,
+            "tconst": "tt3680822",
+            "averageRating": "9.2"
+        }
+    ]
+}
