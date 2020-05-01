@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OD-Search</title>
+</head>
+<body>
+    <div>
+        <input type="text" placeholder="Type something..." id="query">
+        <select name="content-types" id="content-select">
+            <option value="everything">Everything</option>
+            <option value="video">Video</option>
+            <option value="image">Image</option>
+            <option value="audio">Audio</option>
+            <option value="software">Software</option>
+            <option value="archive">Archive</option>
+            <option value="book">Book</option>
+        </select>
+        <button type="button" onclick="search();">Get Value</button>    
+    </div>
+      
+    <script>
+        function search() {
+            var searchTerm = document.getElementById("query").value;
+            console.log(searchTerm);
+
+            var website = 'https://www.google.com/search?q=';
+            var inURL = ' -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml)';
+            var video = ' +(wmv|mpg|avi|mp4|mkv|mov)';
+            var audio = ' +(ac3|mp3|wma|flac|ogg|wav|m4a)';
+            var image = ' +(bmp|gif|jpg|png|psd|tif|tiff)';
+            var software = ' +(exe|iso|tar|rar|zip|apk)';
+            var archive = ' +(gzip|rar|tar|7z|zip|si)';
+            var book = ' +(pdf|epub|mobi|doc|docx|cbz|cbr|fb2|lit|rtf|odt)';
+            var inText = 'intext:"' + searchTerm + '"';
+            
+            select_e = document.getElementById("content-select");
+            option = select_e.options[select_e.selectedIndex].value;
+            console.log(option);
+
+            switch(option) {
+                case "everything":
+                    link = website + inText + ' intitle:"index.of"' + inURL;
+                    break;
+                case "video":
+                link = website + inText + ' intitle:"index.of"' + video + inURL;
+                    break;
+                case "image":
+                    link = website + inText + ' intitle:"index.of"' + image + inURL;
+                    break;    
+                case "audio":
+                    link = website + inText + ' intitle:"index.of"' + audio + inURL;
+                    break;
+                case "software":
+                    link = website + inText + ' intitle:"index.of"' + software + inURL;
+                    break;
+                case "archive":
+                    link = website + inText + ' intitle:"index.of"' + archive + inURL;
+                    break;
+                case "book":
+                    link = website + inText + ' intitle:"index.of"' + book + inURL;
+                    break;
+                default:
+                    link = website + inText + ' intitle:"index.of"' + inURL; 
+            }
+            
+            // console.log(link);
+            window.open(link,'_blank');   
+        }
+
+
+    </script>
+</body>
+</html>
