@@ -1,0 +1,41 @@
+header {
+    text-align: center;
+}
+/* Tag list */
+#tag-list, #post-list {
+    border-style: solid;
+    width: 70vw;
+    margin: 1rem auto;
+    padding: 1rem;
+
+}
+#tag-list ul {
+    -moz-column-count: 4;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 4;
+    -webkit-column-gap: 20px;
+    column-count: 4;
+    column-gap: 20px;
+}
+
+/* Post list */
+#post-list {
+}
+.post {
+    display: flex;
+}
+.post-info {
+    font-weight: bold;
+}
+.post-info a {
+    color: black
+}
+.post-info a:hover {
+    color: blue
+}
+.post-img {
+    margin: 0.5rem;
+}
+.post-img img {
+    width: 20rem;
+}
