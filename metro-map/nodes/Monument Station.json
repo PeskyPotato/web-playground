@@ -1,0 +1,53 @@
+[
+    {
+        "place_id": 3637618,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 469760419,
+        "lat": "51.5107942",
+        "lon": "-0.0849072",
+        "display_name": "Monument Station, Talbot Court, Bridge, City of London, Greater London, England, EC3M 1BN, United Kingdom",
+        "class": "railway",
+        "type": "station",
+        "importance": 0.20000999999999997,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/transport_bus_stop2.p.20.png"
+    },
+    {
+        "place_id": 3637960,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 469760423,
+        "boundingbox": [
+            "51.5106273",
+            "51.5107273",
+            "-0.0852225",
+            "-0.0851225"
+        ],
+        "lat": "51.5106773",
+        "lon": "-0.0851725",
+        "display_name": "Monument Station, Eastcheap, Bridge, City of London, Greater London, England, EC3M 1BU, United Kingdom",
+        "class": "highway",
+        "type": "bus_stop",
+        "importance": 0.20000999999999997,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/transport_bus_stop2.p.20.png"
+    },
+    {
+        "place_id": 3648756,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 469774018,
+        "boundingbox": [
+            "51.509471",
+            "51.509571",
+            "-0.0873594",
+            "-0.0872594"
+        ],
+        "lat": "51.509521",
+        "lon": "-0.0873094",
+        "display_name": "Monument Station, King William Street, Bridge, City of London, Greater London, England, EC4R 9AN, United Kingdom",
+        "class": "highway",
+        "type": "bus_stop",
+        "importance": 0.20000999999999997,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/transport_bus_stop2.p.20.png"
+    }
+]

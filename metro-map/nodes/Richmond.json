@@ -1,0 +1,186 @@
+[
+    {
+        "place_id": 308316071,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 3864712,
+        "lat": "51.4634502",
+        "lon": "-0.3019568",
+        "display_name": "Richmond, Virginia, United States",
+        "class": "railway",
+        "type": "station",
+        "importance": 0.7303281547786693,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 308136895,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2528737,
+        "boundingbox": [
+            "34.8051561",
+            "35.182896",
+            "-80.078484",
+            "-79.4592041"
+        ],
+        "lat": "35.0288383",
+        "lon": "-79.7333261",
+        "display_name": "Richmond County, North Carolina, United States",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.622470433781069,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 307809722,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 114481,
+        "boundingbox": [
+            "37.88364",
+            "38.0285668",
+            "-122.441484",
+            "-122.2434491"
+        ],
+        "lat": "37.9357576",
+        "lon": "-122.347748",
+        "display_name": "Richmond, Contra Costa County, California, United States",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6119045170508876,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 307801452,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 127380,
+        "boundingbox": [
+            "39.74859",
+            "39.882589",
+            "-84.963745",
+            "-84.8136716"
+        ],
+        "lat": "39.8286897",
+        "lon": "-84.8898521",
+        "display_name": "Richmond, Wayne County, Indiana, 47374, United States",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6080806971924902,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 308133194,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2221097,
+        "boundingbox": [
+            "49.0860395",
+            "49.2619422",
+            "-123.3099703",
+            "-122.9572171"
+        ],
+        "lat": "49.163168",
+        "lon": "-123.137414",
+        "display_name": "Richmond, Metro Vancouver Regional District, British Columbia, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6080425701270167,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 307547756,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 130839,
+        "boundingbox": [
+            "37.623519",
+            "37.794517",
+            "-84.34202",
+            "-84.24014"
+        ],
+        "lat": "37.7478572",
+        "lon": "-84.2946539",
+        "display_name": "Richmond, Madison County, Kentucky, 40475, United States",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6054327832373588,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 100529,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 21099164,
+        "boundingbox": [
+            "51.4213531",
+            "51.5013531",
+            "-0.3432767",
+            "-0.2632767"
+        ],
+        "lat": "51.4613531",
+        "lon": "-0.3032767",
+        "display_name": "Richmond, Greater London, England, TW9 1DY, United Kingdom",
+        "class": "place",
+        "type": "town",
+        "importance": 0.6052933658905904,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_town.p.20.png"
+    },
+    {
+        "place_id": 308059875,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 2534202,
+        "boundingbox": [
+            "37.778386",
+            "38.124444",
+            "-76.9379891",
+            "-76.507811"
+        ],
+        "lat": "37.9476108",
+        "lon": "-76.7161921",
+        "display_name": "Richmond County, Virginia, United States",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6020833691768992,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 307647199,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 151795,
+        "boundingbox": [
+            "51.3914316",
+            "51.4896879",
+            "-0.3929338",
+            "-0.2217611"
+        ],
+        "lat": "51.4405529",
+        "lon": "-0.3076394377337949",
+        "display_name": "London Borough of Richmond upon Thames, London, Greater London, England, United Kingdom",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.6006926303876027,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 308616968,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 6586811,
+        "boundingbox": [
+            "29.5548351",
+            "29.6306803",
+            "-95.7914826",
+            "-95.6913361"
+        ],
+        "lat": "29.5821811",
+        "lon": "-95.7607832",
+        "display_name": "Richmond, Fort Bend County, 44769, United States",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.5898270382469685,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    }
+]

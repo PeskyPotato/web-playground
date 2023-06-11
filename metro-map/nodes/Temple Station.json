@@ -1,0 +1,52 @@
+[
+    {
+        "place_id": 240902034,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 680207734,
+        "lat": "51.5110065",
+        "lon": "-0.1128888",
+        "display_name": "Temple Station, Victoria Embankment Gardens, St Clement Danes, Holborn, City of Westminster, Greater London, England, WC2R 2PH, United Kingdom",
+        "class": "railway",
+        "type": "station",
+        "importance": 0.20000999999999997
+    },
+    {
+        "place_id": 3645015,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 469760217,
+        "boundingbox": [
+            "51.5109565",
+            "51.5110565",
+            "-0.1129388",
+            "-0.1128388"
+        ],
+        "lat": "51.5110065",
+        "lon": "-0.1128888",
+        "display_name": "Temple Station, Victoria Embankment, South Bank, Covent Garden, Farringdon Without, City of Westminster, Greater London, England, WC2R 2PH, United Kingdom",
+        "class": "highway",
+        "type": "bus_stop",
+        "importance": 0.20000999999999997,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/transport_bus_stop2.p.20.png"
+    },
+    {
+        "place_id": 3651477,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 469760218,
+        "boundingbox": [
+            "51.5108627",
+            "51.5109627",
+            "-0.1130139",
+            "-0.1129139"
+        ],
+        "lat": "51.5109127",
+        "lon": "-0.1129639",
+        "display_name": "Temple Station, Victoria Embankment, South Bank, Covent Garden, Farringdon Without, City of Westminster, Greater London, England, WC2R 2AB, United Kingdom",
+        "class": "highway",
+        "type": "bus_stop",
+        "importance": 0.20000999999999997,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/transport_bus_stop2.p.20.png"
+    }
+]

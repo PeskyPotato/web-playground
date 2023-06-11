@@ -2,6 +2,7 @@ import requests
 import json
 import os
 import argparse
+from time import sleep
 
 def find_station_node(data):
     for node in data:
@@ -21,7 +22,7 @@ def get_station_api(name):
 
     with open(os.path.join("nodes", f"{params['q']}.json"), "w") as f:
         json.dump(data, f)
-
+    sleep(1)
     return find_station_node(data)
 
 def get_node(station_name):

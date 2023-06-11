@@ -1,0 +1,194 @@
+[
+    {
+        "place_id": 111262753,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 26313615,
+        "lat": "51.5178803",
+        "lon": "-0.0826904",
+        "display_name": "Liverpool Street, Lurnea, Liverpool, Sydney, Liverpool City Council, New South Wales, 2170, Australia",
+        "class": "railway",
+        "type": "station",
+        "importance": 0.31
+    },
+    {
+        "place_id": 111262753,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 26313615,
+        "boundingbox": [
+            "-33.9368477",
+            "-33.9350962",
+            "150.9043065",
+            "150.9050045"
+        ],
+        "lat": "-33.9368477",
+        "lon": "150.9044846",
+        "display_name": "Liverpool Street, Lurnea, Liverpool, Sydney, Liverpool City Council, New South Wales, 2170, Australia",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.31
+    },
+    {
+        "place_id": 200087514,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 408781415,
+        "boundingbox": [
+            "-33.877535",
+            "-33.8774982",
+            "151.2162414",
+            "151.2164566"
+        ],
+        "lat": "-33.8774982",
+        "lon": "151.2162414",
+        "display_name": "Liverpool Street, Darlinghurst, Sydney, Council of the City of Sydney, New South Wales, 2010, Australia",
+        "class": "highway",
+        "type": "tertiary",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 109410843,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 22937935,
+        "boundingbox": [
+            "-33.8836021",
+            "-33.8817576",
+            "151.2237434",
+            "151.2242059"
+        ],
+        "lat": "-33.8827648",
+        "lon": "151.2241921",
+        "display_name": "Liverpool Street, Five Ways, Paddington, Eastern Suburbs, Sydney, Woollahra Municipal Council, New South Wales, 2021, Australia",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 295500203,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1054504744,
+        "boundingbox": [
+            "53.4838069",
+            "53.4838172",
+            "-2.2949168",
+            "-2.2946917"
+        ],
+        "lat": "53.4838172",
+        "lon": "-2.2949168",
+        "display_name": "Liverpool Street, Weaste, Eccles, Salford, Greater Manchester, England, M6 5PH, United Kingdom",
+        "class": "highway",
+        "type": "tertiary",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 294722222,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1054504743,
+        "boundingbox": [
+            "53.4837943",
+            "53.4838069",
+            "-2.2946917",
+            "-2.2944466"
+        ],
+        "lat": "53.4837943",
+        "lon": "-2.2944466",
+        "display_name": "Liverpool Street, Weaste, Salford, Greater Manchester, England, M6 5PH, United Kingdom",
+        "class": "highway",
+        "type": "tertiary",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 114765452,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 35484675,
+        "boundingbox": [
+            "49.2075547",
+            "49.2089233",
+            "-122.9132817",
+            "-122.9107223"
+        ],
+        "lat": "49.2076079",
+        "lon": "-122.9131802",
+        "display_name": "Liverpool Street, Queens Park, New Westminster, Metro Vancouver Regional District, British Columbia, V3L 1K3, Canada",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 109706363,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 23744285,
+        "boundingbox": [
+            "49.2089233",
+            "49.2097046",
+            "-122.9107223",
+            "-122.9091843"
+        ],
+        "lat": "49.2096564",
+        "lon": "-122.9092771",
+        "display_name": "Liverpool Street, Queens Park, New Westminster, Metro Vancouver Regional District, British Columbia, V3L 1G7, Canada",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 354956793,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1136329938,
+        "boundingbox": [
+            "-33.9020465",
+            "-33.9018367",
+            "150.9390207",
+            "150.9405291"
+        ],
+        "lat": "-33.9018367",
+        "lon": "150.9390207",
+        "display_name": "Liverpool Street, Cabramatta, Sydney, Fairfield City Council, New South Wales, 2166, Australia",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 113301998,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 31754063,
+        "boundingbox": [
+            "-37.9207674",
+            "-37.9194704",
+            "145.0692492",
+            "145.0694986"
+        ],
+        "lat": "-37.9207124",
+        "lon": "145.0692611",
+        "display_name": "Liverpool Street, Bentleigh East, Melbourne, City of Glen Eira, Victoria, 3165, Australia",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 240423423,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 677646637,
+        "boundingbox": [
+            "-37.072718",
+            "-37.0727076",
+            "174.9470024",
+            "174.9472249"
+        ],
+        "lat": "-37.072718",
+        "lon": "174.9471558",
+        "display_name": "Liverpool Street, Ōpaheke, Papakura, Auckland, 2110, New Zealand/Aotearoa",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    }
+]

@@ -1,0 +1,194 @@
+[
+    {
+        "place_id": 117900100,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 44772414,
+        "lat": "51.5904988",
+        "lon": "-0.103139",
+        "display_name": "Turnpike Lane, Cowley, London Borough of Hillingdon, London, Greater London, England, UB10 0AA, United Kingdom",
+        "class": "railway",
+        "type": "station",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 117900100,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 44772414,
+        "boundingbox": [
+            "51.5351405",
+            "51.5368493",
+            "-0.4720649",
+            "-0.4712554"
+        ],
+        "lat": "51.5358429",
+        "lon": "-0.4715205",
+        "display_name": "Turnpike Lane, Cowley, London Borough of Hillingdon, London, Greater London, England, UB10 0AA, United Kingdom",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 352444417,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1126223251,
+        "boundingbox": [
+            "53.0044757",
+            "53.0051216",
+            "-1.7175365",
+            "-1.7165591"
+        ],
+        "lat": "53.0049454",
+        "lon": "-1.7171475",
+        "display_name": "Turnpike Lane, Ashbourne CP, Compton, Derbyshire Dales, Derbyshire, England, DE6 1UD, United Kingdom",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 110977832,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 24790013,
+        "boundingbox": [
+            "54.1952271",
+            "54.1988149",
+            "-2.7253471",
+            "-2.7247674"
+        ],
+        "lat": "54.1970428",
+        "lon": "-2.7253162",
+        "display_name": "Turnpike Lane, Holme, South Lakeland, Westmorland and Furness, England, LA6 1QU, United Kingdom",
+        "class": "highway",
+        "type": "unclassified",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 133073212,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 120191498,
+        "boundingbox": [
+            "51.1923523",
+            "51.1956405",
+            "-2.4605402",
+            "-2.4592424"
+        ],
+        "lat": "51.1943416",
+        "lon": "-2.4599281",
+        "display_name": "Turnpike Lane, Dean, Cranmore, East Cranmore, Somerset, England, BA4 4SF, United Kingdom",
+        "class": "highway",
+        "type": "unclassified",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 276134622,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 904648445,
+        "boundingbox": [
+            "35.0363112",
+            "35.0366644",
+            "-107.3871416",
+            "-107.3863093"
+        ],
+        "lat": "35.0366644",
+        "lon": "-107.3871416",
+        "display_name": "Turnpike Lane, Laguna, Cibola County, New Mexico, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 108416894,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 19847821,
+        "boundingbox": [
+            "51.9673084",
+            "51.9699209",
+            "-0.2870431",
+            "-0.2801635"
+        ],
+        "lat": "51.9684255",
+        "lon": "-0.2834675",
+        "display_name": "Turnpike Lane, Ickleford, Hitchin, North Hertfordshire, Hertfordshire, England, SG5 3XB, United Kingdom",
+        "class": "highway",
+        "type": "tertiary",
+        "importance": 0.3
+    },
+    {
+        "place_id": 163925352,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 236487015,
+        "boundingbox": [
+            "52.3089661",
+            "52.3090472",
+            "-1.9680114",
+            "-1.9678727"
+        ],
+        "lat": "52.309009",
+        "lon": "-1.9679434",
+        "display_name": "Turnpike Lane, Batchley, Redditch, Worcestershire, England, B97 6LB, United Kingdom",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.3
+    },
+    {
+        "place_id": 119554398,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 55422742,
+        "boundingbox": [
+            "52.309055",
+            "52.3107775",
+            "-1.9688036",
+            "-1.9668101"
+        ],
+        "lat": "52.3094894",
+        "lon": "-1.9677379",
+        "display_name": "Turnpike Lane, Batchley, Redditch, Worcestershire, England, B97 6UJ, United Kingdom",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.3
+    },
+    {
+        "place_id": 216209995,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 507566960,
+        "boundingbox": [
+            "51.0978863",
+            "51.099083",
+            "-0.2371523",
+            "-0.2363702"
+        ],
+        "lat": "51.0985707",
+        "lon": "-0.236447",
+        "display_name": "Turnpike Lane, Kilnwood Vale, Colgate, Kilnwood Vale, Horsham, West Sussex, England, RH12 0AZ, United Kingdom",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.3
+    },
+    {
+        "place_id": 164427698,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 236487016,
+        "boundingbox": [
+            "52.3095847",
+            "52.309662",
+            "-1.9670261",
+            "-1.9668873"
+        ],
+        "lat": "52.3096224",
+        "lon": "-1.966965",
+        "display_name": "Turnpike Lane, Batchley, Redditch, Worcestershire, England, B97 6UH, United Kingdom",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.3
+    }
+]

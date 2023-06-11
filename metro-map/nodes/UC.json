@@ -1,0 +1,93 @@
+[
+    {
+        "place_id": 309670894,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 45198301,
+        "boundingbox": [
+            "52.0843925",
+            "52.0943925",
+            "5.104821",
+            "5.114821"
+        ],
+        "lat": "52.0893925",
+        "lon": "5.109821",
+        "display_name": "Utrecht Centraal, 12, Stationshal, Dichterswijk, Utrecht, Nederland, 3511 CE, Nederland",
+        "class": "railway",
+        "type": "station",
+        "importance": 0.6405988542685404,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/transport_train_station2.p.20.png"
+    },
+    {
+        "place_id": 19529293,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2270878248,
+        "boundingbox": [
+            "52.0899494",
+            "52.0900494",
+            "5.1103222",
+            "5.1104222"
+        ],
+        "lat": "52.0899994",
+        "lon": "5.1103722",
+        "display_name": "Utrecht Centraal, 12, Stationshal, Dichterswijk, Utrecht, Nederland, 3511 CE, Nederland",
+        "class": "railway",
+        "type": "stop",
+        "importance": 0.21000999999999997
+    },
+    {
+        "place_id": 166890148,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 237005081,
+        "boundingbox": [
+            "52.0885056",
+            "52.090289",
+            "5.107918",
+            "5.111646"
+        ],
+        "lat": "52.08938245",
+        "lon": "5.109602100099816",
+        "display_name": "Utrecht Centraal, 12, Stationshal, Dichterswijk, Utrecht, Nederland, 3511 CE, Nederland",
+        "class": "building",
+        "type": "train_station",
+        "importance": 0.21000999999999997
+    },
+    {
+        "place_id": 35909211,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 2984341875,
+        "boundingbox": [
+            "52.0905194",
+            "52.0906194",
+            "5.1101292",
+            "5.1102292"
+        ],
+        "lat": "52.0905694",
+        "lon": "5.1101792",
+        "display_name": "Utrecht Centraal, Stationsplein, Dichterswijk, Utrecht, Nederland, 3511 ED, Nederland",
+        "class": "railway",
+        "type": "stop",
+        "importance": 0.21000999999999997
+    },
+    {
+        "place_id": 193543119,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 362826547,
+        "boundingbox": [
+            "52.0885128",
+            "52.0895862",
+            "5.1108078",
+            "5.1118684"
+        ],
+        "lat": "52.089044349999995",
+        "lon": "5.111224262235061",
+        "display_name": "Utrecht Centraal, Stationsplein, Dichterswijk, Utrecht, Nederland, 3511 ED, Nederland",
+        "class": "building",
+        "type": "yes",
+        "importance": 0.21000999999999997
+    }
+]

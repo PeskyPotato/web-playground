@@ -9,9 +9,8 @@ document.addEventListener('DOMContentLoaded', async function () {
     }
 
     var raw_stations = await get_stations();
-    console.log(raw_stations);
     var lines = await get_lines();
-
+    console.log(lines);
 	var cy = window.cy = cytoscape({
 		container: document.getElementById('cy'),
 
@@ -28,11 +27,12 @@ document.addEventListener('DOMContentLoaded', async function () {
 				style: {
 					'content': 'data(s_name)',
 					'background-color': 'white',
-					'width': 15,
-					'height': 15
+                    'border-color': 'black',
+                    'border-width': 1,
+					'width': 7,
+					'height': 7
 				}
 			},
-
 			{
 				selector: 'edge',
 				style: {
@@ -48,7 +48,60 @@ document.addEventListener('DOMContentLoaded', async function () {
                     'line-color': 'purple'
                 }
             },
-
+            {
+                selector: '.Piccadilly',
+                style: {
+                    'line-color': '#1B3F94'
+                }
+            },
+            {
+                selector: '.Bakerloo',
+                style: {
+                    'line-color': '#B0600E'
+                }
+            },
+            {
+                selector: '.District',
+                style: {
+                    'line-color': '#24843D'
+                }
+            },
+            {
+                selector: '.Central',
+                style: {
+                    'line-color': '#EE2E21'
+                }
+            },
+            {
+                selector: '.Circle',
+                style: {
+                    'line-color': '#FCD106'
+                }
+            },
+            {
+                selector: '.Hammersmith',
+                style: {
+                    'line-color': '#F386A0'
+                }
+            },
+            {
+                selector: '.Jubilee',
+                style: {
+                    'line-color': '#959CA1'
+                }
+            },
+            {
+                selector: '.Metropolitan',
+                style: {
+                    'line-color': '#97015E'
+                }
+            },
+            {
+                selector: '.mute',
+                style: {
+                    'opacity': 0
+                }
+            },
 			{
 				selector: ':selected',
 				style: {
@@ -111,24 +164,7 @@ document.addEventListener('DOMContentLoaded', async function () {
         console.log(ele.id() + " " + ele.json().position.x + ", " +  ele.json().position.y);
     });
 
-	// cy.on('click', e => {
-	// 	console.log(e.position);
-	// 	console.log(e.renderedPosition);
-		
-	// 	const { x, y } = e.position;
-
-	// 	// const ll = map.layerPointToLatLng(L.point([x, y]));
-	// 	const ll = map.containerPointToLatLng(L.point([x, y]));
-
-	// 	const { lat, lng } = ll;
-
-	// 	console.log(e.position, ll);
-
-	// 	cy.add({ data: { lat, lng } });
-	// });
-
 	var i = 0;
-
     for (var line of lines) {
         var stations = [];
         var current_station;
@@ -161,5 +197,42 @@ document.addEventListener('DOMContentLoaded', async function () {
             }
         }
     }
+
+    document.getElementById('toggle-piccadilly').addEventListener('click', function(){
+        var edges = cy.elements('.Piccadilly');
+        for(var edge of edges){
+            edge.toggleClass("mute");
+        }
+    });
+    document.getElementById('toggle-bakerloo').addEventListener('click', function(){
+        var edges = cy.elements('.Bakerloo');
+        for(var edge of edges){
+            edge.toggleClass("mute");
+        }
+    });
+    document.getElementById('toggle-district').addEventListener('click', function(){
+        var edges = cy.elements('.District');
+        for(var edge of edges){
+            edge.toggleClass("mute");
+        }
+    });
+    document.getElementById('toggle-central').addEventListener('click', function(){
+        var edges = cy.elements('.Central');
+        for(var edge of edges){
+            edge.toggleClass("mute");
+        }
+    });
+    document.getElementById('toggle-circle').addEventListener('click', function(){
+        var edges = cy.elements('.Circle');
+        for(var edge of edges){
+            edge.toggleClass("mute");
+        }
+    });
+    document.getElementById('toggle-elizabeth').addEventListener('click', function(){
+        var edges = cy.elements('.Elizabeth');
+        for(var edge of edges){
+            edge.toggleClass("mute");
+        }
+    });
 });
 

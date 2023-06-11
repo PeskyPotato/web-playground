@@ -1,0 +1,179 @@
+[
+    {
+        "place_id": 416902,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 154019033,
+        "boundingbox": [
+            "32.8170842",
+            "32.8370842",
+            "-83.7096266",
+            "-83.6896266"
+        ],
+        "lat": "32.8270842",
+        "lon": "-83.6996266",
+        "display_name": "Westminister, Macon, Bibb County, Georgia, 31206, United States",
+        "class": "place",
+        "type": "neighbourhood",
+        "importance": 0.36
+    },
+    {
+        "place_id": 180820745,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 313629098,
+        "boundingbox": [
+            "49.6979823",
+            "49.7127396",
+            "-112.8241712",
+            "-112.8083455"
+        ],
+        "lat": "49.7054251",
+        "lon": "-112.81624173485648",
+        "display_name": "Westminister, Lethbridge, Alberta, Canada",
+        "class": "place",
+        "type": "neighbourhood",
+        "importance": 0.36
+    },
+    {
+        "place_id": 439689,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 157564999,
+        "boundingbox": [
+            "39.6273344",
+            "39.6673344",
+            "-75.9885561",
+            "-75.9485561"
+        ],
+        "lat": "39.6473344",
+        "lon": "-75.9685561",
+        "display_name": "Westminister, Cecil County, Maryland, United States",
+        "class": "place",
+        "type": "hamlet",
+        "importance": 0.36,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_village.p.20.png"
+    },
+    {
+        "place_id": 221764704,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 548895306,
+        "boundingbox": [
+            "35.6604094",
+            "35.6671127",
+            "-97.3360385",
+            "-97.3359838"
+        ],
+        "lat": "35.6655731",
+        "lon": "-97.3360286",
+        "display_name": "Westminister, Edmond, Oklahoma County, Oklahoma, 73034, United States",
+        "class": "highway",
+        "type": "tertiary",
+        "importance": 0.21
+    },
+    {
+        "place_id": 107594820,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 18316799,
+        "boundingbox": [
+            "39.185361",
+            "39.186394",
+            "-91.881274",
+            "-91.881216"
+        ],
+        "lat": "39.18599",
+        "lon": "-91.881227",
+        "display_name": "Westminister, Mexico, Audrain County, Missouri, 65265, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21
+    },
+    {
+        "place_id": 107492111,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 18859396,
+        "boundingbox": [
+            "43.078329",
+            "43.079644",
+            "-71.4534",
+            "-71.45199"
+        ],
+        "lat": "43.079422",
+        "lon": "-71.452932",
+        "display_name": "Westminister, Hooksett, Merrimack County, New Hampshire, 03106, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21
+    },
+    {
+        "place_id": 221764728,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 548895307,
+        "boundingbox": [
+            "35.6601675",
+            "35.6604094",
+            "-97.3359865",
+            "-97.3359838"
+        ],
+        "lat": "35.6601675",
+        "lon": "-97.3359865",
+        "display_name": "Westminister, Arcadia, Oklahoma County, Oklahoma, 73034, United States",
+        "class": "highway",
+        "type": "tertiary",
+        "importance": 0.21
+    },
+    {
+        "place_id": 104622529,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 12653006,
+        "boundingbox": [
+            "30.238886",
+            "30.239254",
+            "-92.658032",
+            "-92.658009"
+        ],
+        "lat": "30.239182",
+        "lon": "-92.658032",
+        "display_name": "Westminister, Jennings, Jefferson Davis Parish, Louisiana, 70546, United States",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.21
+    },
+    {
+        "place_id": 617076,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 247325666,
+        "lat": "51.501797146653736",
+        "lon": "-0.1236396703424525",
+        "display_name": "Westminister, N8, Westminster, Mantsopa Ward 7, Mantsopa Local Municipality, Thabo Mofutsanyana District Municipality, Free State, South Africa",
+        "class": "railway",
+        "type": "station",
+        "importance": 0.11010000000000002,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/transport_train_station2.p.20.png"
+    },
+    {
+        "place_id": 3039276,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 378688546,
+        "boundingbox": [
+            "13.0295481",
+            "13.0296481",
+            "80.2496467",
+            "80.2497467"
+        ],
+        "lat": "13.0295981",
+        "lon": "80.2496967",
+        "display_name": "Westminister, T T Krishnamachari Road, Seethammal Colony, CMWSSB Division 123, Zone 9 Teynampet, Chennai, Chennai District, Tamil Nadu, 600001, India",
+        "class": "amenity",
+        "type": "pub",
+        "importance": 0.11000999999999997,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/food_pub.p.20.png"
+    }
+]
