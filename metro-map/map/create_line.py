@@ -2,10 +2,10 @@ import json
 
 lines = []
 
-name = "Jubilee"
+name = "Elizabeth"
 stations = []
 
-for s_id in range (216, 229):
+for s_id in range (23, 29):
     stations.append(f'{s_id:05d}')
 
 

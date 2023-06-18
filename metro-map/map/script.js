@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', async function () {
 			{
 				selector: 'node',
 				style: {
-					'content': 'data(s_name)',
+					// 'content': 'data(s_name)',
 					'background-color': 'white',
                     'border-color': 'black',
                     'border-width': 1,
@@ -58,6 +58,12 @@ document.addEventListener('DOMContentLoaded', async function () {
                 selector: '.Bakerloo',
                 style: {
                     'line-color': '#B0600E'
+                }
+            },
+            {
+                selector: '.Waterloo',
+                style: {
+                    'line-color': '#84CDBC'
                 }
             },
             {
@@ -94,6 +100,18 @@ document.addEventListener('DOMContentLoaded', async function () {
                 selector: '.Metropolitan',
                 style: {
                     'line-color': '#97015E'
+                }
+            },
+            {
+                selector: '.Northern',
+                style: {
+                    'line-color': '#231F20'
+                }
+            },
+            {
+                selector: '.Victoria',
+                style: {
+                    'line-color': '#2A9DDC'
                 }
             },
             {
@@ -230,6 +248,36 @@ document.addEventListener('DOMContentLoaded', async function () {
     });
     document.getElementById('toggle-elizabeth').addEventListener('click', function(){
         var edges = cy.elements('.Elizabeth');
+        for(var edge of edges){
+            edge.toggleClass("mute");
+        }
+    });
+    document.getElementById('toggle-hammersmith').addEventListener('click', function(){
+        var edges = cy.elements('.Hammersmith');
+        for(var edge of edges){
+            edge.toggleClass("mute");
+        }
+    });
+    document.getElementById('toggle-jubilee').addEventListener('click', function(){
+        var edges = cy.elements('.Jubilee');
+        for(var edge of edges){
+            edge.toggleClass("mute");
+        }
+    });
+    document.getElementById('toggle-metropolitan').addEventListener('click', function(){
+        var edges = cy.elements('.Metropolitan');
+        for(var edge of edges){
+            edge.toggleClass("mute");
+        }
+    });
+    document.getElementById('toggle-northern').addEventListener('click', function(){
+        var edges = cy.elements('.Northern');
+        for(var edge of edges){
+            edge.toggleClass("mute");
+        }
+    });
+    document.getElementById('toggle-victoria').addEventListener('click', function(){
+        var edges = cy.elements('.Victoria');
         for(var edge of edges){
             edge.toggleClass("mute");
         }

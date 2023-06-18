@@ -1,0 +1,185 @@
+[
+    {
+        "place_id": 307854274,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 112194,
+        "lat": "51.6135231",
+        "lon": "0.3006105",
+        "display_name": "Brentwood, Contra Costa County, California, 94513, United States",
+        "class": "railway",
+        "type": "station",
+        "importance": 0.5777801432527017,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 307555731,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 76515,
+        "boundingbox": [
+            "51.5642976",
+            "51.7170079",
+            "0.1756759",
+            "0.4125337"
+        ],
+        "lat": "51.6201654",
+        "lon": "0.3018662",
+        "display_name": "Brentwood, Essex, England, United Kingdom",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.5590654776650233,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 307855068,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 139894,
+        "boundingbox": [
+            "38.604786",
+            "38.630928",
+            "-90.3624208",
+            "-90.333515"
+        ],
+        "lat": "38.6175522",
+        "lon": "-90.3492829",
+        "display_name": "Brentwood, Saint Louis County, Missouri, 63144, United States",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.540655789514504,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 141627,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "node",
+        "osm_id": 150966715,
+        "boundingbox": [
+            "34.0321403",
+            "34.0721403",
+            "-118.4940699",
+            "-118.4540699"
+        ],
+        "lat": "34.0521403",
+        "lon": "-118.4740699",
+        "display_name": "Brentwood, Los Angeles, Los Angeles County, California, 90073, United States",
+        "class": "place",
+        "type": "suburb",
+        "importance": 0.5367804766929202,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_place_village.p.20.png"
+    },
+    {
+        "place_id": 307548011,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 196062,
+        "boundingbox": [
+            "35.93256",
+            "36.044672",
+            "-86.869444",
+            "-86.6873"
+        ],
+        "lat": "36.0325687",
+        "lon": "-86.7825235",
+        "display_name": "Brentwood, Williamson County, Middle Tennessee, Tennessee, 37027, United States",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.5317967300625707,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 307926391,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 175698,
+        "boundingbox": [
+            "40.754761",
+            "40.8084299",
+            "-73.2953478",
+            "-73.209234"
+        ],
+        "lat": "40.7812093",
+        "lon": "-73.2462273",
+        "display_name": "Brentwood, Town of Islip, Suffolk County, New York, 11717, United States",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.5281423672099549,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 307549076,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 133367,
+        "boundingbox": [
+            "38.9350296",
+            "38.9540493",
+            "-76.962774",
+            "-76.9494551"
+        ],
+        "lat": "38.9429675",
+        "lon": "-76.9558032",
+        "display_name": "Brentwood, Prince George's County, Maryland, 20722, United States",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.5015277920193513,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 308823577,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 9261077,
+        "boundingbox": [
+            "45.1992235",
+            "45.243322",
+            "-63.2997573",
+            "-63.2428528"
+        ],
+        "lat": "45.2260022",
+        "lon": "-63.2881165",
+        "display_name": "Brentwood, Municipality of Colchester, Colchester County, Nova Scotia, Canada",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.4600099999999999,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    },
+    {
+        "place_id": 305872124,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 1103950141,
+        "boundingbox": [
+            "30.3134694",
+            "30.3453999",
+            "-97.7415751",
+            "-97.7196197"
+        ],
+        "lat": "30.3312641",
+        "lon": "-97.7364653",
+        "display_name": "Brentwood, Austin, Travis County, Texas, 78756, United States",
+        "class": "place",
+        "type": "neighbourhood",
+        "importance": 0.4529547440604512
+    },
+    {
+        "place_id": 307786489,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "relation",
+        "osm_id": 187404,
+        "boundingbox": [
+            "40.3604525",
+            "40.3858",
+            "-79.988747",
+            "-79.96153"
+        ],
+        "lat": "40.3732693",
+        "lon": "-79.9756206",
+        "display_name": "Brentwood, Allegheny County, Pennsylvania, 15227, United States",
+        "class": "boundary",
+        "type": "administrative",
+        "importance": 0.451279197003829,
+        "icon": "https://nominatim.openstreetmap.org/ui/mapicons/poi_boundary_administrative.p.20.png"
+    }
+]

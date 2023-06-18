@@ -1,0 +1,158 @@
+[
+    {
+        "place_id": 122780068,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 55806166,
+        "lat": "51.5334179",
+        "lon": "-0.1385304",
+        "display_name": "Mornington Crescent, Canvey Island, Castle Point, Essex, England, SS8 8AS, United Kingdom",
+        "class": "railway",
+        "type": "station",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 118446483,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 38453549,
+        "boundingbox": [
+            "52.9859404",
+            "52.9861037",
+            "-1.2312586",
+            "-1.2304328"
+        ],
+        "lat": "52.9860075",
+        "lon": "-1.2308888",
+        "display_name": "Mornington Crescent, Assarts Farm Estate, Nuthall, Broxtowe, Nottinghamshire, England, NG16 1QE, United Kingdom",
+        "class": "highway",
+        "type": "tertiary",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 118596477,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 38453547,
+        "boundingbox": [
+            "52.9860047",
+            "52.9862369",
+            "-1.2296537",
+            "-1.2293131"
+        ],
+        "lat": "52.9862198",
+        "lon": "-1.2295491",
+        "display_name": "Mornington Crescent, Assarts Farm Estate, Nuthall, Broxtowe, Nottinghamshire, England, NG16 1PT, United Kingdom",
+        "class": "highway",
+        "type": "tertiary",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 128744931,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 94196046,
+        "boundingbox": [
+            "52.9822848",
+            "52.9849937",
+            "-1.2337494",
+            "-1.2254765"
+        ],
+        "lat": "52.983666",
+        "lon": "-1.2295517",
+        "display_name": "Mornington Crescent, Assarts Farm Estate, Nuthall, Broxtowe, Nottinghamshire, England, NG16 1QQ, United Kingdom",
+        "class": "highway",
+        "type": "tertiary",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 129369383,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 94196063,
+        "boundingbox": [
+            "52.98225",
+            "52.9823446",
+            "-1.2342646",
+            "-1.2337494"
+        ],
+        "lat": "52.9823411",
+        "lon": "-1.2340369",
+        "display_name": "Mornington Crescent, Assarts Farm Estate, Nuthall, Broxtowe, Nottinghamshire, England, NG16 1QF, United Kingdom",
+        "class": "highway",
+        "type": "tertiary",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 265459565,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 806452626,
+        "boundingbox": [
+            "52.9854085",
+            "52.9861947",
+            "-1.2283542",
+            "-1.2255358"
+        ],
+        "lat": "52.9859808",
+        "lon": "-1.2269264",
+        "display_name": "Mornington Crescent, Assarts Farm Estate, Nuthall, Broxtowe, Nottinghamshire, England, NG16 1PY, United Kingdom",
+        "class": "highway",
+        "type": "tertiary",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 267579568,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 805557895,
+        "boundingbox": [
+            "52.9849937",
+            "52.9854085",
+            "-1.2255358",
+            "-1.2253653"
+        ],
+        "lat": "52.9851633",
+        "lon": "-1.2253801",
+        "display_name": "Mornington Crescent, Assarts Farm Estate, Nuthall, Broxtowe, Nottinghamshire, England, NG16 1RL, United Kingdom",
+        "class": "highway",
+        "type": "tertiary",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 118452905,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 38453545,
+        "boundingbox": [
+            "52.9822265",
+            "52.9826201",
+            "-1.2318004",
+            "-1.2316325"
+        ],
+        "lat": "52.9824421",
+        "lon": "-1.2316717",
+        "display_name": "Mornington Crescent, Assarts Farm Estate, Nuthall, Broxtowe, Nottinghamshire, England, NG16 1QF, United Kingdom",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    },
+    {
+        "place_id": 116749476,
+        "licence": "Data © OpenStreetMap contributors, ODbL 1.0. https://osm.org/copyright",
+        "osm_type": "way",
+        "osm_id": 33233049,
+        "boundingbox": [
+            "51.5537852",
+            "51.5544256",
+            "0.6177359",
+            "0.6232033"
+        ],
+        "lat": "51.5541107",
+        "lon": "0.6205083",
+        "display_name": "Mornington Crescent, Hadleigh, Castle Point, Essex, England, SS7 2HP, United Kingdom",
+        "class": "highway",
+        "type": "residential",
+        "importance": 0.30000999999999994
+    }
+]
