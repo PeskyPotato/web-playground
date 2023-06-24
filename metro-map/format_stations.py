@@ -1,7 +1,7 @@
 from geocode import get_node
 import json
 
-with open('elizabeth_line.txt') as f:
+with open('elizabeth_central_line.txt') as f:
     stations = f.readlines()
 
 formatted_stations = []
@@ -13,22 +13,22 @@ for station_name in stations:
     if not node:
         continue
 
+    #station = {
+    #    "data": {},
+    #    "position": {}
+    #}
+    #station["data"]["id"] = f'{current_id:05d}'
+    #station["data"]["s_name"] = station_name
+    #station["position"]["x"] = float(node["lon"])*1000
+    #station["position"]["y"] = float(node["lat"])*-1000
+
     station = {
-        "data": {},
-        "position": {}
+        "data": {}
     }
     station["data"]["id"] = f'{current_id:05d}'
     station["data"]["s_name"] = station_name
-    station["position"]["x"] = float(node["lon"])*1000
-    station["position"]["y"] = float(node["lat"])*-1000
-
-    # station = {
-    #     "data": {}
-    # }
-    # station["data"]["id"] = f'{current_id:05d}'
-    # station["data"]["s_name"] = station_name
-    # station["data"]["lng"] = float(node["lon"])
-    # station["data"]["lat"] = float(node["lat"])
+    station["data"]["lng"] = float(node["lon"])
+    station["data"]["lat"] = float(node["lat"])
 
 
     current_id += 1
