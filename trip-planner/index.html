@@ -23,9 +23,7 @@
                     <?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" fill="none" stroke-width="1.5" viewBox="0 0 24 24" color="#000000"><path stroke="#000000" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" d="m7 16.01.01-.011M17 16.01l.01-.011M3 12h18v7a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v-7ZM21 8V6a4 4 0 0 0-4-4H7a4 4 0 0 0-4 4v2M7 8h10"></path><path stroke="#000000" stroke-width="1.5" stroke-linecap="round" d="M4.5 20v1.9a.6.6 0 0 0 .6.6h2.8a.6.6 0 0 0 .6-.6V20M15.5 20v1.9a.6.6 0 0 0 .6.6h2.8a.6.6 0 0 0 .6-.6V20"></path></svg>
                 </div>
                 <div class="line"></div>
-                <div class="contianer">
                 <div class="type">Bus - [4] Terwijde Station</div>
-                </div>
             </div>
             <div class="trip">
                 <div class="time">16:41</div>
@@ -99,8 +97,8 @@
         .line {
             border: 2px solid #a1a1a1;
             position: absolute;
-            left: calc(10vw + 2rem);
-            height: 50px;
+            left: calc(3rem + 2rem);
+            height: calc(28px + 2rem);
             top: -5px;
             z-index: -1;
         }
@@ -114,17 +112,17 @@
             position: relative;
             left: -5px;
         }
-        .type {
-            border-left: 10px;
+        .icon {
+            text-align: center;
         }
         .trip.info {
             padding: 0.5rem 0 0 0;
         }
         .icon, .time {
-            width: 10vw;
+            width: 3rem;
         }
         .location, .type {
-            width: 40vw;
+            width: 18rem;
         }
         .location, .time, .icon, .type {
             margin: 0 1rem 0 1rem;
